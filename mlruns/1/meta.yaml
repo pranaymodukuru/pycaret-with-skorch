@@ -1,0 +1,4 @@
+artifact_location: file:///mnt/c/Users/prana/OneDrive/Desktop/Tvarit/Github/pycaret-with-pytorch/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: electrical_grid_1

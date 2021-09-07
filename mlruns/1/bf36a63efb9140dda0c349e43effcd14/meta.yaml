@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/prana/OneDrive/Desktop/Tvarit/Github/pycaret-with-pytorch/mlruns/1/bf36a63efb9140dda0c349e43effcd14/artifacts
+end_time: 1626630376072
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: bf36a63efb9140dda0c349e43effcd14
+run_uuid: bf36a63efb9140dda0c349e43effcd14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1626630374597
+status: 3
+tags: []
+user_id: pranay
